@@ -2,7 +2,7 @@
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/bndtools/bnd) [![Rebuild](https://github.com/bndtools/bnd/actions/workflows/rebuild.yml/badge.svg)](https://github.com/bndtools/bnd/actions/workflows/rebuild.yml) [![CodeQL](https://github.com/bndtools/bnd/actions/workflows/codeql.yml/badge.svg)](https://github.com/bndtools/bnd/actions/workflows/codeql.yml)  ![GitHub issues](https://img.shields.io/github/issues/bndtools/bnd) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/bndtools/bnd) 
 
-https://img.shields.io/static/v1?logo=eclipseide&label=Launch%20Dev%20Env&message=bndtools&style=for-the-badge&logoColor=white&labelColor=darkorange&color=gray[link="eclipse+installer:[https://cdn.klib.io/oomph/setups-github/BndConfiguration.setup](https://github.com/klibio/bndtools/blob/1e85d6145a742cddf9115eada2e19a15e9da2873/bnd-oomph-config.setup)",alt:"Launch Eclipse Dev Env for bnd/bndtools",window=_blank]
+[![Launch Eclipse Dev Env for bndtools](https://img.shields.io/static/v1?logo=eclipseide&label=Launch%20Dev%20Env&message=bnd/bndtools&style=for-the-badge&logoColor=white&labelColor=darkorange&color=gray)](eclipse+installer:https://github.com/klibio/bndtools/blob/1e85d6145a742cddf9115eada2e19a15e9da2873/bnd-oomph-config.setup)
 
 # bnd & bndtools 
 
