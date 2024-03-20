@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/bndtools/bnd)](https://github.com/bndtools/bnd/issues) 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/bndtools/bnd)](https://github.com/bndtools/bnd/commits/)
 
-link via oomph landing page [![Launch Eclipse Dev Env for bndtools](https://img.shields.io/static/v1?logo=eclipseide&label=Launch%20Dev%20Env&message=bnd/bndtools&style=for-the-badge&logoColor=white&labelColor=darkorange&color=gray)](https://www.eclipse.org/setups/installer/?url=https://raw.githubusercontent.com/klibio/bndtools/master/bnd-oomph-config.setup&show=true)
+link via oomph landing page [![Launch Eclipse Dev Env for bndtools](https://img.shields.io/static/v1?logo=eclipseide&label=Launch%20Dev%20Env&message=bndtools&style=for-the-badge&logoColor=white&labelColor=darkorange&color=gray)](https://www.eclipse.org/setups/installer/?url=https://raw.githubusercontent.com/klibio/bndtools/master/bnd-oomph-config.setup&show=true)
 
 # bnd & bndtools 
 
