@@ -15,7 +15,7 @@
       name="bndtools.workspace"
       label="bndtools Workspace">
     <stream
-        href="https://github.com/klibio/bndtools/blob/fff0bd4f616806f28ecd208933cf31c4ccf6895f/bnd-oomph-project.setup#//@streams[name='master']"/>
+        href="https://raw.githubusercontent.com/klibio/bndtools/fff0bd4f616806f28ecd208933cf31c4ccf6895f/bnd-oomph-project.setup#//@streams[name='master']"/>
     <description>The bnd workspace provides cool stuff.</description>
   </workspace>
   <description>The bnd configuration provides cool stuff.</description>
